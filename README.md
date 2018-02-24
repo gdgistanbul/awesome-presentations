@@ -2,13 +2,13 @@
 
 A community-curated list of selective conferences around the world for developers 🤓
 
-###Public Speaking
+### Public Speaking
 
-###Android
+### Android
 
-###IOS
+### IOS
 
-###Devops
+### Devops
 
 
 
