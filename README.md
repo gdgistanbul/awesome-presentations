@@ -2,15 +2,15 @@
 
 A community-curated list of selective conferences around the world for developers 🤓
 
-### Public Speaking
+### Public Speaking 🐵 🙊 🙉 
 
 ### Android
 
 ### IOS
 
-### Firebase
+### Firebase 🔥
 
-### Cloud
+### Cloud ☁️ 
 
 ### AI & Machine Learning
 
