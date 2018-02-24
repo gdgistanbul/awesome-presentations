@@ -8,7 +8,17 @@ A community-curated list of selective conferences around the world for developer
 
 ### IOS
 
+### Firebase
+
+### Cloud
+
+### AI & Machine Learning
+
+### UI / UX
+
 ### Devops
+
+### Agile
 
 
 
