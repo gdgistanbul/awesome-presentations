@@ -4,21 +4,21 @@ A community-curated list of selective conferences around the world for developer
 
 ### Public Speaking 🐵 🙊 🙉 
 
-### Android
+### Android 🦄
 
-### IOS
+### IOS 🐍
 
 ### Firebase 🔥
 
 ### Cloud ☁️ 
 
-### AI & Machine Learning
+### AI & Machine Learning 🐨 
 
-### UI / UX
+### UI / UX 🐼
 
-### Devops
+### Devops 🌟
 
-### Agile
+### Agile 🌚 🌝
 
 
 
