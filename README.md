@@ -2,7 +2,7 @@
 
 A community-curated list of selective conferences around the world for developers 🤓
 
-### [Public Speaking](https://github.com/gdgistanbul/awesome-presentations/blob/master/public_speaking.md) 🐵 🙊 🙉
+### [Public Speaking](https://github.com/gdgistanbul/awesome-presentations/tree/master/public_speaking) 🐵 🙊 🙉
 
 ### Android 🦄
 
