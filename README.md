@@ -4,7 +4,7 @@ A community-curated list of selective conferences around the world for developer
 
 ### [Public Speaking](https://github.com/gdgistanbul/awesome-presentations/tree/master/public_speaking) 🐵 🙊 🙉
 
-### Android 🦄
+### [Android](https://github.com/gdgistanbul/awesome-presentations/tree/master/android) 🦄
 
 ### IOS 🐍
 
