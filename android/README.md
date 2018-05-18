@@ -2,13 +2,14 @@
 
 #### filters
 
-**[2017](#2017)** **[2016](#2016)**
+**[2018](#2018)** **[2017](#2017)** **[2016](#2016)**
 
 #### presentation list
 
 *   **[The Baddest Android Advice in All The Land](#bad)**
 *   **[Mastering ConstraintLayout in Android - Rebecca Franks](#rebecca)**
 *   **[Building an Android Instant App](#lyla)**
+*   **[Modern Android development: Android Jetpack, Kotlin, and more (Google I/O 2018)](jetpack)**
 
 ## [2016](#2016)
 
@@ -42,3 +43,14 @@ Watch more Android talks from GDD India '17 here: https://goo.gl/wBGpJu
 Check out the ‘All Sessions’ playlist for the rest of the talks that were given at GDD India ’17: https://goo.gl/1N3HsD
 
 [video](https://youtu.be/aqzHJa_QV-k)
+
+## [2018](#2018)
+
+### <a name="jetpack"></a> Modern Android development: Android Jetpack, Kotlin, and more (Google I/O 2018)
+
+The last couple of years have seen a plethora of new features and patterns for Android developers. But how do developers know when to use existing APIs and features vs. new ones? This session will help developers understand how they all work together and learn what they should use to build solid, modern Android applications. 
+
+Watch more Android sessions from I/O '18 here → https://goo.gl/R9L42F
+See all the sessions from Google I/O '18 here → https://goo.gl/q1Tr8x
+
+[video](https://www.youtube.com/watch?v=IrMw7MEgADk)
