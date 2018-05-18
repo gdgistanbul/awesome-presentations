@@ -10,7 +10,7 @@
 *   **[Mastering ConstraintLayout in Android - Rebecca Franks](#rebecca)**
 *   **[Building an Android Instant App](#lyla)**
 *   **[Modern Android development: Android Jetpack, Kotlin, and more (Google I/O 2018)](#jetpack)**
-*   **[How to Kotlin - from the Lead Kotlin Language Designer (Google I/O '18)](#kotlin)**
+*   **[How to Kotlin - from the Lead Kotlin Language Designer (Google I/O '18)](#kotlin)**
 
 ## [2016](#2016)
 
