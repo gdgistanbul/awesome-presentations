@@ -10,6 +10,7 @@
 *   **[Mastering ConstraintLayout in Android - Rebecca Franks](#rebecca)**
 *   **[Building an Android Instant App](#lyla)**
 *   **[Modern Android development: Android Jetpack, Kotlin, and more (Google I/O 2018)](#jetpack)**
+*   **[How to Kotlin - from the Lead Kotlin Language Designer (Google I/O '18)](#kotlin)**
 
 ## [2016](#2016)
 
@@ -55,3 +56,13 @@ Watch more Android sessions from I/O '18 here → https://goo.gl/R9L42F
 See all the sessions from Google I/O '18 here → https://goo.gl/q1Tr8x
 
 [video](https://www.youtube.com/watch?v=IrMw7MEgADk)
+
+### <a name="kotlin"></a> How to Kotlin - from the Lead Kotlin Language Designer (Google I/O '18)
+
+Kotlin is similar to the Java programming language, so it's natural that your Kotlin code looks very much like Java code when you are first start to use the language. While this is fine to begin with, you're probably not taking full advantage of all the language benefits. In this session, the lead Kotlin language designer will show you how you can write more idiomatic Kotlin, what the benefits are, and help you discover some of the most powerful yet lesser known features of Kotlin.
+
+Watch more Android sessions from I/O '18 here → https://goo.gl/R9L42F
+
+See all the sessions from Google I/O '18 here → https://goo.gl/q1Tr8x
+
+[video](https://www.youtube.com/watch?v=6P20npkvcb8)
