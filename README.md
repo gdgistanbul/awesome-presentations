@@ -6,7 +6,7 @@ A community-curated list of selective conferences around the world for developer
 
 ### [Android](https://github.com/gdgistanbul/awesome-presentations/tree/master/android) 🦄
 
-### IOS 🐍
+### [IOS](https://github.com/gdgistanbul/awesome-presentations/tree/master/ios) 🐍
 
 ### Firebase 🔥
 
