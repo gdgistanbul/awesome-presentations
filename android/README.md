@@ -51,6 +51,7 @@ Check out the ‘All Sessions’ playlist for the rest of the talks that were gi
 The last couple of years have seen a plethora of new features and patterns for Android developers. But how do developers know when to use existing APIs and features vs. new ones? This session will help developers understand how they all work together and learn what they should use to build solid, modern Android applications. 
 
 Watch more Android sessions from I/O '18 here → https://goo.gl/R9L42F
+
 See all the sessions from Google I/O '18 here → https://goo.gl/q1Tr8x
 
 [video](https://www.youtube.com/watch?v=IrMw7MEgADk)
