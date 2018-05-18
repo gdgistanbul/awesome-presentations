@@ -9,7 +9,7 @@
 *   **[The Baddest Android Advice in All The Land](#bad)**
 *   **[Mastering ConstraintLayout in Android - Rebecca Franks](#rebecca)**
 *   **[Building an Android Instant App](#lyla)**
-*   **[Modern Android development: Android Jetpack, Kotlin, and more (Google I/O 2018)](jetpack)**
+*   **[Modern Android development: Android Jetpack, Kotlin, and more (Google I/O 2018)](#jetpack)**
 
 ## [2016](#2016)
 
