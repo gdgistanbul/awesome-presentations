@@ -11,8 +11,16 @@
 *   **[Building an Android Instant App](#lyla)**
 *   **[Modern Android development: Android Jetpack, Kotlin, and more (Google I/O 2018)](#jetpack)**
 *   **[How to Kotlin - from the Lead Kotlin Language Designer (Google I/O '18)](#kotlin)**
+*   **[Switching to ExoPlayer: Better Video on Android](#exoplayer)**
 
 ## [2016](#2016)
+
+
+### <a name="exoplayer"></a> Switching to ExoPlayer: Better Video on Android
+
+How does one start implementing a working ExoPlayer solution? In this talk from [360|AnDev](https://academy.realm.io/posts/360andev-effie-barak-switching-exoplayer-better-video-android/), Effie Barak walks us through Udemy’s transition from MediaPlayer to ExoPlayer, covering the basics on how to make the switch. She also touches on extending ExoPlayer and to implement advanced video features, such as background playing, variable speed changes, subtitles, and different play resolutions.
+
+[video](https://www.youtube.com/watch?v=zJ22Xfr98WU)
 
 
 ## [2017](#2017)
