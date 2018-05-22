@@ -12,6 +12,7 @@
 *   **[Modern Android development: Android Jetpack, Kotlin, and more (Google I/O 2018)](#jetpack)**
 *   **[How to Kotlin - from the Lead Kotlin Language Designer (Google I/O '18)](#kotlin)**
 *   **[Switching to ExoPlayer: Better Video on Android](#exoplayer)**
+*   **[Android Jetpack: sweetening Kotlin development with Android KTX](#ktx)**
 
 ## [2016](#2016)
 
@@ -74,3 +75,13 @@ Watch more Android sessions from I/O '18 here → https://goo.gl/R9L42F
 See all the sessions from Google I/O '18 here → https://goo.gl/q1Tr8x
 
 [video](https://www.youtube.com/watch?v=6P20npkvcb8)
+
+### <a name="ktx"></a> Android Jetpack: sweetening Kotlin development with Android KTX (Google I/O '18)
+
+This talk introduces Android KTX, which is the new set of Kotlin extensions for Android. It demonstrates how Android developers writing Kotlin can use Android KTX to make their code more idiomatic, concise, and pleasant. It will also discuss how developers can make their own libraries more Kotlin-friendly.
+
+Watch more Android sessions from I/O '18 here → https://goo.gl/R9L42F
+
+See all the sessions from Google I/O '18 here → https://goo.gl/q1Tr8x
+
+[video](https://www.youtube.com/watch?v=st1XVfkDWqk)
